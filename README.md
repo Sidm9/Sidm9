@@ -1,7 +1,5 @@
 ### Howdy! 👋
 
-<!--
-**Sidm9/Sidm9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 I am a web developer 
@@ -12,4 +10,3 @@ With every project, I implement the highest standards of communication and colla
 - 🌱 I’m currently learning ... FLASK AND BACKEND TECHNOLOGIES
 - 👯 I’m looking to collaborate on ... OPEN SOURCE PROJECTS
 - 📫 How to reach me: ... DISCORD : matrix#6893
--->
