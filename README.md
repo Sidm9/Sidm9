@@ -7,5 +7,5 @@ With every project, I implement the highest standards of communication and colla
 
 - 🔭 I’m currently working on ... A7A2.0 , CODEY 
 - 🌱 I’m currently learning ... FLASK AND BACKEND TECHNOLOGIES
-- 👯 I’m looking to collaborate on ... OPEN SOURCE PROJECTS
+- 👯 I’m looking to collaborate on ... OPEN SOURCE PROJECTS , FREELANCING
 - 📫 How to reach me: ... DISCORD : matrix#6893
