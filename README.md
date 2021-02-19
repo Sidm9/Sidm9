@@ -10,3 +10,10 @@ With every project, I implement the highest standards of communication and colla
 - 👯 I’m looking to work on OPEN SOURCE PROJECTS , FREELANCING
 - 📫 How to reach me: DISCORD : matrix#6893
 - 💻 Wakatime: wakatime.com/Sidm9
+
+## Github Stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=Sidm9)
+
+![Github stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Sidm9)
+
+![Github stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Sidm9)
