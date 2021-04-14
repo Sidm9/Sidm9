@@ -18,4 +18,3 @@ With every project, I implement the highest standards of communication and colla
 
 ![Github stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Sidm9)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sidm9&theme=black-ice&hide_border=true)](https://git.io/streak-stats)
