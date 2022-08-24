@@ -6,7 +6,7 @@ I specialize in digital strategy, project management, and development. I have be
 With every project, I implement the highest standards of communication and collaboration, and believe that process is the foundation of success.
 
 - 🔭 I’m currently working on A7A2.0 , CODEY , MAPPE , SIGNALLY 
-- 🌱 I’m currently learning RUST and ACTIX-WEB
+- 🌱 I’m currently learning RXJS , NESTJS
 - 👯 I’m looking to work on OPEN SOURCE PROJECTS , FREELANCING
 - 📫 How to reach me: DISCORD : sidm9#6893
 - 💻 Wakatime: wakatime.com/Sidm9
