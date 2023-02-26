@@ -7,8 +7,9 @@ I specialize in digital strategy, project management, and development. I have be
 With every project, I implement the highest standards of communication and collaboration, and believe that process is the foundation of success.
 
 - 🔭 I’m currently working on A7A2.0 , CODEY , MAPPE , SIGNALLY 
-- 🌱 I’m currently learning RXJS , NESTJS
-- 📫 How to reach me:   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/sidm9#9831)
+
+- 📫 How to reach me:   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/sidm9#9831)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sidm_9)
+
 - 💻 Wakatime: wakatime.com/Sidm9 
 
 
