@@ -3,7 +3,7 @@
 
 
 I am a web developer .
-I specialize in digital strategy, project management, and development. I have been at this developing websites and Webapps for a good three years, and have sharpened my skills working on over 5 projects.
+I specialize in digital strategy, project management, and development. I have been at this developing Websites, Webapps and Mobile Apps for a good four years, and have sharpened my skills working actively over 10 projects.
 With every project, I implement the highest standards of communication and collaboration, and believe that process is the foundation of success.
 
 - 🔭 I’m currently working on A7A2.0 , CODEY , MAPPE , SIGNALLY 
