@@ -8,8 +8,10 @@ With every project, I implement the highest standards of communication and colla
 
 - 🔭 I’m currently working on A7A2.0 , CODEY , MAPPE , SIGNALLY 
 - 🌱 I’m currently learning RXJS , NESTJS
-- 📫 How to reach me: DISCORD : sidm9#6893
-- 💻 Wakatime: wakatime.com/Sidm9
+- 📫 How to reach me:   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/sidm9#9831)
+- 💻 Wakatime: wakatime.com/Sidm9 
+
+
 
 ## Github Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Sidm9)
