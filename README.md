@@ -1,4 +1,4 @@
-![gitartwork](gitartwork.svg)
+
 ### Howdy!! 👋
 
 
