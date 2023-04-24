@@ -16,11 +16,11 @@ With every project, I implement the highest standards of communication and colla
 
 
 ## Github Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=Sidm9)
+![Github stats](https://github-readme-stats.vercel.app/api?username=sidm9)
 
-![Github stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Sidm9)
+![Github stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=sidm9)
 
-![Github stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Sidm9)
+![Github stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sidm9)
 
 [![wakatime](https://wakatime.com/badge/user/64e33ca6-190f-476e-a2b0-ac96e94cb6ae.svg)](https://wakatime.com/@64e33ca6-190f-476e-a2b0-ac96e94cb6ae)
 
