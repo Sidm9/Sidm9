@@ -1,7 +1,6 @@
 
 ### Howdy!! 👋
 
-![Sidm9](./sidm9.svg)
 
 I am a software engineer at A7ALABS.
 I specialize in digital strategy, project management, and development. I have been at this developing Websites, Webapps and Mobile Apps for a good four years, and have sharpened my skills working actively over 10 projects.
