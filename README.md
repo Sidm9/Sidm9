@@ -1,7 +1,6 @@
 
 ### Howdy!! 👋
 
-
 I am a software engineer at A7ALABS.
 I specialize in mobile and web development. I have been developing Websites, Webapps and Mobile Apps for a good four years, and have sharpened my skills working actively over 10 projects.
 With every project, I implement the highest standards of communication and collaboration, and believe that process is the foundation of success. 
