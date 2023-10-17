@@ -11,10 +11,6 @@ With every project, I implement the highest standards of communication and colla
 
 
 ## Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=sidm9&theme=violet-dark&card_width=500)](https://git.io/streak-stats)
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=sidm9)
-
 ![Github stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=sidm9)
 
 ![Github stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sidm9)
