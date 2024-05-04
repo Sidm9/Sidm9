@@ -16,4 +16,4 @@ With every project, I implement the highest standards of communication and colla
 ![Github stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sidm9)
 
 [![wakatime](https://wakatime.com/badge/user/64e33ca6-190f-476e-a2b0-ac96e94cb6ae.svg)](https://wakatime.com/@64e33ca6-190f-476e-a2b0-ac96e94cb6ae)
-
+ 
